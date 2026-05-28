@@ -62,8 +62,8 @@ Amadeus-ETL/
 ## 👥 Thông tin nhóm
 
 - **Tên nhóm:** Nhóm 6 – Môn Cơ sở dữ liệu nâng cao  
-- **Thành viên GitHub:** [Đinh Lê Quỳnh Phương](https://github.com/quynhphuong1209)  
-- **Trường học:** [Điền tên trường tại đây nếu muốn]
+- **Thành viên GitHub:** [Nguyễn Hải An](https://github.com/haian2004)  
+- **Trường học:** [Đại Học Y tế Công Cộng]
 
 ---
 
@@ -79,7 +79,7 @@ Amadeus-ETL/
 
 1. **Tải về dự án:**
 ```bash
-git clone https://github.com/quynhphuong1209/Amadeus-ETL.git
+git clone https://github.com/haian2004Amadeus-ETL.git
 ```
 2. **Mở trong Visual Studio (có SSIS):**
 Vào File → Open → Project/Solution → chọn Amadeus ETL.dtproj
